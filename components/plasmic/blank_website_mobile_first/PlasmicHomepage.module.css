@@ -21,7 +21,7 @@
 }
 @media (min-width: 768px) {
   .root {
-    background: #896666;
+    background: #f4f4f4;
   }
 }
 @media (min-width: 768px) {
@@ -55,6 +55,7 @@
   .section {
     height: 100vh;
     align-content: space-between;
+    background: #ffffff;
     padding: 40px;
   }
 }
