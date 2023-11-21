@@ -20,6 +20,11 @@
   grid-column: 4;
 }
 @media (min-width: 768px) {
+  .root {
+    background: #896666;
+  }
+}
+@media (min-width: 768px) {
   .root > * {
     grid-column: 4;
   }

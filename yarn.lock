@@ -327,6 +327,11 @@
     fast-deep-equal "^3.1.3"
     valtio "^1.6.3"
 
+"@plasmicpkgs/plasmic-basic-components@^0.0.201":
+  version "0.0.201"
+  resolved "https://registry.yarnpkg.com/@plasmicpkgs/plasmic-basic-components/-/plasmic-basic-components-0.0.201.tgz#a23479e2039bfc60f1ef0eddaf493ed4c0561463"
+  integrity sha512-lze4EAzWyJJ+Eh57C/AEzpNa4oedkqpVO89foP8ZXdV3dOKFh+r+HdoEnb+NiwKNgMWUv1T33fIWitUsEhM8hQ==
+
 "@react-aria/checkbox@^3.11.2":
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/@react-aria/checkbox/-/checkbox-3.12.0.tgz#a965e975975404ecf1ff867284511e4490a69c21"
